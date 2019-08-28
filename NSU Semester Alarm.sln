@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NSU Semester Alarm", "NSU Semester Alarm\NSU Semester Alarm.vbproj", "{1C85743D-CCF2-4788-A94C-EAC1AD68F7A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C85743D-CCF2-4788-A94C-EAC1AD68F7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C85743D-CCF2-4788-A94C-EAC1AD68F7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C85743D-CCF2-4788-A94C-EAC1AD68F7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C85743D-CCF2-4788-A94C-EAC1AD68F7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B71016-CE7A-47A5-89B8-9019356CB3D8}
+	EndGlobalSection
+EndGlobal

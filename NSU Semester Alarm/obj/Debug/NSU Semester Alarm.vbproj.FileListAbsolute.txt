@@ -1,0 +1,11 @@
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\bin\Debug\NSU Semester Alarm.exe
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\bin\Debug\NSU Semester Alarm.pdb
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\bin\Debug\NSU Semester Alarm.xml
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU Semester Alarm.vbprojResolveAssemblyReference.cache
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU_Semester_Alarm.Form1.resources
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU_Semester_Alarm.Resources.resources
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU Semester Alarm.vbproj.GenerateResource.cache
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU Semester Alarm.vbproj.CoreCompileInputs.cache
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU Semester Alarm.exe
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU Semester Alarm.xml
+F:\Projects\Visual Basic\NSU Semester Alarm\NSU Semester Alarm\obj\Debug\NSU Semester Alarm.pdb
